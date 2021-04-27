@@ -29,6 +29,10 @@ DB_PASSWORD=mysql<br>
 
 ## How does it looks like
 
+<img width="815" alt="1" src="https://user-images.githubusercontent.com/74532995/116231106-21764f00-a761-11eb-8b24-f3b67ab250e0.png"> <br>
+<img width="819" alt="2" src="https://user-images.githubusercontent.com/74532995/116231108-220ee580-a761-11eb-88b3-15e36f469272.png"> <br>
+<img width="803" alt="3" src="https://user-images.githubusercontent.com/74532995/116231109-22a77c00-a761-11eb-9bc6-99a94ea07cd9.png"> <br>
+
 
 ## Authors
 [Ineta](https://github.com/InetaVei)

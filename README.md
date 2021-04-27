@@ -11,6 +11,7 @@ This app is built with Laravel framework.
 - Admin can manage employees table: add/delete/update employee data and assign project to the employee;
 - Admin can filtering bettors by horses name;
 - Admin can search bettors by name or surname;
+- Added WYSIWYG function;
 
 ## Installation & Configuration
 1. Clone this git repository;
